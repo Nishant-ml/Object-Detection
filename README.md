@@ -96,5 +96,5 @@ SSDs often give a nice tradeoff in terms of speed and accuracy as well.
 Notice how our deep learning object detector can detect not only a person, but also the sofa and the chair next to person — all in real-time!
 
 Just follow☝️ me and Star⭐ my repository
-# Object-Detection-Website
-# Object-Detection-Website
+# Object-Detection
+# Object-Detection
